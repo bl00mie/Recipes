@@ -1,0 +1,20 @@
+{
+  "tmayoff-meals:open-meal-plan": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "tmayoff-meals:download-url": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ]
+}

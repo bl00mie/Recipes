@@ -1,0 +1,10 @@
+{
+  "folder": "Recipes",
+  "saveInActiveFile": false,
+  "imgFolder": "Recipes/Images",
+  "saveImg": true,
+  "saveImgSubdir": false,
+  "recipeTemplate": "---\ntags: \n- recipe \ncreated: {{datePublished}}\nauthor: {{author.name}}\nurl: {{url}} \n---\n\n# [{{{name}}}]({{url}})\n\n{{{description}}}\n\n![{{{name}}}]({{image}})\n\n### Ingredients\n\n{{#each recipeIngredient}}\n- {{{this}}}\n{{/each}}\n\n### Instructions\n\n{{#each recipeInstructions}}\n{{#if this.itemListElement}}\n#### {{{this.name}}}\n{{#each this.itemListElement}}\n- {{{this.text}}}\n{{/each}}\n{{else if this.text}}\n- {{{this.text}}}\n{{else}}\n- {{{this}}}\n{{/if}}\n{{/each}}\n\n-----\n\n## Notes\n",
+  "decodeEntities": true,
+  "debug": false
+}
