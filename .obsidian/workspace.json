@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sauces & Bases/Marinara Sauce.md",
+                "file": "Recipes/Sauces & Bases/Tomato Sauce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marinara Sauce"
+              "title": "Tomato Sauce"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes/Sauces & Bases/Marinara Sauce.md",
+                "file": "Recipes/Sauces & Bases/Tomato Sauce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Marinara Sauce"
+              "title": "Backlinks for Tomato Sauce"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes/Sauces & Bases/Marinara Sauce.md",
+                "file": "Recipes/Sauces & Bases/Tomato Sauce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Marinara Sauce"
+              "title": "Outgoing links from Tomato Sauce"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes/Sauces & Bases/Marinara Sauce.md",
+                "file": "Recipes/Sauces & Bases/Tomato Sauce.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Marinara Sauce"
+              "title": "Outline of Tomato Sauce"
             }
           },
           {
@@ -228,10 +228,19 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "ac632431c30bec53",
+  "active": "7e41738f5bd4d13d",
   "lastOpenFiles": [
-    "Kosher Salt.md",
+    "Recipes/Sauces & Bases/Sweet Thai Chili Sauce.md",
+    "Recipes/Ingredients/Arrowroot Powder.md",
+    "sambal oelek.md",
+    "Recipes/Sauces & Bases/Mexican Adobo Sauce (low carb).md",
     "Recipes/Sauces & Bases/Marinara Sauce.md",
+    "Recipes/Ingredients/Honey.md",
+    "Recipes/Ingredients/Lakanto Golden.md",
+    "Red Wine Vinegar.md",
+    "Recipes/Ingredients/Balsamic Vinegar.md",
+    "Recipes/Ingredients/Fennel Seed.md",
+    "Recipes/Ingredients/Kosher Salt.md",
     "Red Pepper Flake.md",
     "Recipes/Sauces & Bases/Tomato Sauce.md",
     "Recipes/Ingredients/Early Girl Tomato.md",
@@ -247,17 +256,8 @@
     "Recipes/Ingredients/Apple Cider Vinegar.md",
     "Recipes/Ingredients/Ancho Chiles.md",
     "Recipes/Ingredients/Allulose.md",
-    "Recipes/Ingredients/Almond Flour.md",
-    "Recipes/Sides/Tex-Mex Cauliflower Rice.md",
-    "Recipes/Entree/Chicken Tacos al Pastor.md",
-    "fabric mem leak.md",
     "Recipes/normalize_serving_size.py",
     "Recipes/uc_serving_size.py",
-    "Recipes/Sauces & Bases/Fauxnapple Salsa.md",
-    "Recipes/Sauces & Bases/Mexican Adobo Sauce (low carb).md",
-    "Recipes/Ingredients/cauliflower rice.md",
-    "Recipes/Ingredients/Vegetable Broth.md",
-    "Recipes/Ingredients/Tomato Paste.md",
     "Recipes/uc_first_filenames.py",
     "Recipes/fetch_nutrition.py",
     "Recipes/Sides",

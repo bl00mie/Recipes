@@ -6,7 +6,7 @@ fat_g: 2
 protein_g: 1
 ---
 ## Ingredients
-- 2 lb [[Tomatoes]] peeled (optional), chopped
+- 2 lb [[Tomatoes]] peeled (optional), 
 - 2 tbsp [[Olive Oil]]
 - 4 [[Garlic Cloves]] minced  
 - 1 tsp [[Salt]]
