@@ -16,13 +16,13 @@ sodium_mg: 280.0
 - 2 lb [[Brandywine Tomato]] skinned and crushed  
 - 1 lb [[Moskovich Tomato]] skinned and chopped  
 - 1 lb [[Beefsteak Tomato]] skinned and chopped  
-- 0.5 cup [[Sungold Cherry Tomato]] halved (optional, for sweetness)  
+- 0.5 cup [[Sungold Tomato]] halved (optional, for sweetness)  
 - 3 tbsp [[Olive Oil]] extra virgin  
 - 6 cloves [[Garlic]] thinly sliced  
 - 0.5 small [[Yellow Onion]] finely diced  
-- 1 tsp [[Red Pepper Flake]]  
-- 1.5 tsp [[Kosher Salt]]  
-- 0.5 tsp [[Black Pepper]]  
+- 1 tsp [[Crushed Red Pepper]]  
+- 1.5 tsp [[Kosher Salt]]
+- 0.5 tsp [[Black Pepper]]
 - 1 tsp [[Mexican Oregano]] (or substitute Mediterranean)  
 - 1 tbsp [[Basil]] fresh, chopped (or 1 tsp dried)  
 - 0.5 tsp [[Fennel Seed]] (optional, for sausage-style depth)  
