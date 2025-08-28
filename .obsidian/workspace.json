@@ -39,14 +39,14 @@
             "id": "ac632431c30bec53",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Recipes/Sauces & Bases/Fauxnapple Salsa.md",
-                "bFile": "Recipes/Sauces & Bases/Fauxnapple Salsa.md",
-                "aRef": ""
+                "file": "Templates/🍅 Tomato Preservation Log – YYYY-MM-DD.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Fauxnapple Salsa"
+              "icon": "lucide-file",
+              "title": "🍅 Tomato Preservation Log – YYYY-MM-DD"
             }
           }
         ],
@@ -230,6 +230,8 @@
   },
   "active": "ac632431c30bec53",
   "lastOpenFiles": [
+    "Templates/🍅 Tomato Preservation Log – YYYY-MM-DD.md",
+    "Templates",
     "Recipes/Sauces & Bases/Fauxnapple Salsa.md",
     "Recipes/Entree/Chicken Tinga.md",
     "Recipes/Sauces & Bases/Lime Crema.md",
@@ -255,7 +257,6 @@
     "Recipes/Ingredients/Brandywine Tomato.md",
     "Recipes/Ingredients/Moskovich Tomato.md",
     "Recipes/Ingredients/Beefsteak Tomato.md",
-    "Recipes/Ingredients/Avocado Oil.md",
     "Recipes/normalize_serving_size.py",
     "Recipes/uc_serving_size.py",
     "Recipes/uc_first_filenames.py",
@@ -265,7 +266,6 @@
     "Recipes/Images",
     "Recipe",
     "Recipes/Sauces & Bases",
-    "Recipes/Hors d'Oeuvres",
-    "Recipes/Entree"
+    "Recipes/Hors d'Oeuvres"
   ]
 }
