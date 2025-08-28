@@ -39,14 +39,14 @@
             "id": "ac632431c30bec53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Recipes/Sauces & Bases/Marinara Sauce.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Recipes/Sauces & Bases/Fauxnapple Salsa.md",
+                "bFile": "Recipes/Sauces & Bases/Fauxnapple Salsa.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Marinara Sauce"
+              "icon": "diff",
+              "title": "Diff: Fauxnapple Salsa"
             }
           }
         ],
@@ -230,12 +230,15 @@
   },
   "active": "ac632431c30bec53",
   "lastOpenFiles": [
+    "Recipes/Sauces & Bases/Fauxnapple Salsa.md",
+    "Recipes/Entree/Chicken Tinga.md",
+    "Recipes/Sauces & Bases/Lime Crema.md",
+    "Recipes/Sauces & Bases/Marinara Sauce.md",
     "Recipes/Sauces & Bases/Tomato Sauce.md",
     "Recipes/Sauces & Bases/Sweet Thai Chili Sauce.md",
     "Recipes/Ingredients/Arrowroot Powder.md",
     "Recipes/Ingredients/sambal oelek.md",
     "Recipes/Sauces & Bases/Mexican Adobo Sauce (low carb).md",
-    "Recipes/Sauces & Bases/Marinara Sauce.md",
     "Recipes/Ingredients/Honey.md",
     "Recipes/Ingredients/Lakanto Golden.md",
     "Recipes/Ingredients/Red Wine Vinegar.md",
@@ -253,9 +256,6 @@
     "Recipes/Ingredients/Moskovich Tomato.md",
     "Recipes/Ingredients/Beefsteak Tomato.md",
     "Recipes/Ingredients/Avocado Oil.md",
-    "Recipes/Ingredients/Apple Cider Vinegar.md",
-    "Recipes/Ingredients/Ancho Chiles.md",
-    "Recipes/Ingredients/Allulose.md",
     "Recipes/normalize_serving_size.py",
     "Recipes/uc_serving_size.py",
     "Recipes/uc_first_filenames.py",
