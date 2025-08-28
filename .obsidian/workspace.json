@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sauces & Bases/Tomato Sauce.md",
+                "file": "Recipes/Sauces & Bases/Marinara Sauce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tomato Sauce"
+              "title": "Marinara Sauce"
             }
           }
         ],
@@ -228,8 +228,9 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "7e41738f5bd4d13d",
+  "active": "ac632431c30bec53",
   "lastOpenFiles": [
+    "Recipes/Sauces & Bases/Tomato Sauce.md",
     "Recipes/Sauces & Bases/Sweet Thai Chili Sauce.md",
     "Recipes/Ingredients/Arrowroot Powder.md",
     "Recipes/Ingredients/sambal oelek.md",
@@ -242,7 +243,6 @@
     "Recipes/Ingredients/Fennel Seed.md",
     "Recipes/Ingredients/Kosher Salt.md",
     "Red Pepper Flake.md",
-    "Recipes/Sauces & Bases/Tomato Sauce.md",
     "Recipes/Ingredients/Early Girl Tomato.md",
     "Recipes/Ingredients/Chocolate Cherry Tomato.md",
     "Recipes/Ingredients/Sungold Tomato.md",
