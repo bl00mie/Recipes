@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "🍅 Tomato Preservation Log – YYYY-MM-DD"
             }
+          },
+          {
+            "id": "c53dd4ff0685d7b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,7 +240,7 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "ac632431c30bec53",
+  "active": "c53dd4ff0685d7b8",
   "lastOpenFiles": [
     "Templates/🍅 Tomato Preservation Log – YYYY-MM-DD.md",
     "Templates",
