@@ -41,28 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/🍅 Tomato Preservation Log – YYYY-MM-DD.md",
+                "file": "Recipes/Sauces & Bases/Sweet Thai Chili Sauce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🍅 Tomato Preservation Log – YYYY-MM-DD"
-            }
-          },
-          {
-            "id": "c53dd4ff0685d7b8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "Sweet Thai Chili Sauce"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,15 +228,18 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "c53dd4ff0685d7b8",
+  "active": "ac632431c30bec53",
   "lastOpenFiles": [
+    "Recipes/Sauces & Bases/Tomato Sauce.md",
+    "Recipes/Ingredients/lemon juice.md",
+    "Recipes/Dessert/Cheesecake Bars.md",
+    "Recipes/Ingredients/vanilla extract.md",
     "Templates/🍅 Tomato Preservation Log – YYYY-MM-DD.md",
     "Templates",
     "Recipes/Sauces & Bases/Fauxnapple Salsa.md",
     "Recipes/Entree/Chicken Tinga.md",
     "Recipes/Sauces & Bases/Lime Crema.md",
     "Recipes/Sauces & Bases/Marinara Sauce.md",
-    "Recipes/Sauces & Bases/Tomato Sauce.md",
     "Recipes/Sauces & Bases/Sweet Thai Chili Sauce.md",
     "Recipes/Ingredients/Arrowroot Powder.md",
     "Recipes/Ingredients/sambal oelek.md",
@@ -266,9 +257,6 @@
     "Recipes/Ingredients/Sweet Million Cherry Tomato.md",
     "Recipes/Ingredients/Green Zebra Tomato.md",
     "Recipes/Ingredients/Lemon Boy Tomato.md",
-    "Recipes/Ingredients/Brandywine Tomato.md",
-    "Recipes/Ingredients/Moskovich Tomato.md",
-    "Recipes/Ingredients/Beefsteak Tomato.md",
     "Recipes/normalize_serving_size.py",
     "Recipes/uc_serving_size.py",
     "Recipes/uc_first_filenames.py",

@@ -32,3 +32,6 @@ sugar_g:
 3. Mix arrowroot powder in cold water, then whisk into the sauce
 4. Let cool to thicken further
 
+### Notes
+- this was way too salty in my first attempt. I would cut out the coconut aminos
+- Go very light on the arrowroot. I ended up with dense jelly and had to re-heat and re-hydrate to get it spooned out.
