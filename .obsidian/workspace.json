@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sauces & Bases/Sweet Thai Chili Sauce.md",
+                "file": "Recipes/Sides/Zucchini au Gratin (no roux).md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Sweet Thai Chili Sauce"
+              "title": "Zucchini au Gratin (no roux)"
             }
           }
         ],
@@ -230,6 +230,9 @@
   },
   "active": "ac632431c30bec53",
   "lastOpenFiles": [
+    "Recipes/Sides/Zucchini au gratin.md",
+    "Recipes/Sides/Zucchini au Gratin (no roux).md",
+    "Recipes/Sauces & Bases/Sweet Thai Chili Sauce.md",
     "Recipes/Sauces & Bases/Tomato Sauce.md",
     "Recipes/Ingredients/lemon juice.md",
     "Recipes/Dessert/Cheesecake Bars.md",
@@ -240,7 +243,6 @@
     "Recipes/Entree/Chicken Tinga.md",
     "Recipes/Sauces & Bases/Lime Crema.md",
     "Recipes/Sauces & Bases/Marinara Sauce.md",
-    "Recipes/Sauces & Bases/Sweet Thai Chili Sauce.md",
     "Recipes/Ingredients/Arrowroot Powder.md",
     "Recipes/Ingredients/sambal oelek.md",
     "Recipes/Sauces & Bases/Mexican Adobo Sauce (low carb).md",
@@ -255,8 +257,6 @@
     "Recipes/Ingredients/Chocolate Cherry Tomato.md",
     "Recipes/Ingredients/Sungold Tomato.md",
     "Recipes/Ingredients/Sweet Million Cherry Tomato.md",
-    "Recipes/Ingredients/Green Zebra Tomato.md",
-    "Recipes/Ingredients/Lemon Boy Tomato.md",
     "Recipes/normalize_serving_size.py",
     "Recipes/uc_serving_size.py",
     "Recipes/uc_first_filenames.py",
