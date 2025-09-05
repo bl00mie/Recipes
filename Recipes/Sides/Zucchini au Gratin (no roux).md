@@ -34,7 +34,6 @@ nutrition_note: Estimates per serving; assumes heavy cream + water, almond flour
 - ¾ cup [[heavy cream]] + ¼ cup [[water]], warmed
 - ¾ cup [[gruyère]], grated (≈ 3 oz)
 - ¾ cup [[pork rinds]], crushed
-
 ---
 
 ### Directions
@@ -48,10 +47,7 @@ nutrition_note: Estimates per serving; assumes heavy cream + water, almond flour
 8. Toss crushed pork rinds with Gruyère; scatter evenly over the top. Dot with remaining 1 tbsp butter.
 9. Bake 20 minutes until bubbling and golden. Rest 5 minutes before serving.
 
----
-
 ### Notes
----
 - Texture: Slightly looser than classic roux, but rich and cohesive.
 - Arrowroot tip: Always add as a slurry to hot liquid—never dry.
 - Pork rind crust: Adds crunch and salt; skip added salt if using seasoned rinds.
