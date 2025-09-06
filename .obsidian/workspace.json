@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ff89b1bb10c2baf5",
+        "id": "d968fb96f00e35d2",
         "type": "tabs",
         "children": [
           {
-            "id": "10af6b4c5ea469bd",
+            "id": "f2f5fbb5774e1884",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -199,7 +195,7 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "10af6b4c5ea469bd",
+  "active": "1ca423b21c27d312",
   "lastOpenFiles": [
     "Recipes/Entree/Keto Beef Stroganoff.md",
     "Untitled.base",
