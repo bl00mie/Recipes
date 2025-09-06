@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2c2910142f068284",
+        "id": "ff89b1bb10c2baf5",
         "type": "tabs",
         "children": [
           {
-            "id": "13738ef63381c94b",
+            "id": "10af6b4c5ea469bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -195,8 +199,12 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "13738ef63381c94b",
+  "active": "10af6b4c5ea469bd",
   "lastOpenFiles": [
+    "Recipes/Entree/Keto Beef Stroganoff.md",
+    "Untitled.base",
+    "Recipes/Entree/Roasted Red Pepper Pesto Flatbread Pizza (Cauliflower Focaccia Base).md",
+    "Recipes/Sauces & Bases/Roasted Pepper Pesto.md",
     "Recipes/Ingredients/Allulose.md",
     "Recipes/Sides/Tex-Mex Cauliflower Rice.md",
     "Recipes/Sauces & Bases/Garlic-parmesan dipping oil.md",
@@ -223,16 +231,12 @@
     "Recipes/Sauces & Bases/Mexican Adobo Sauce (low carb).md",
     "Recipes/Ingredients/Honey.md",
     "Recipes/Ingredients/Lakanto Golden.md",
-    "Recipes/Ingredients/Red Wine Vinegar.md",
-    "Recipes/Ingredients/Balsamic Vinegar.md",
-    "Recipes/Ingredients/Fennel Seed.md",
     "Recipes/normalize_serving_size.py",
     "Recipes/uc_serving_size.py",
     "Recipes/uc_first_filenames.py",
     "Recipes/fetch_nutrition.py",
     "Recipes/Sides",
     "Recipes/Images/Keto-Corn-Dog-Recipe-(Mini-Muffins).jpg",
-    "Recipes/Images",
-    "Recipe"
+    "Recipes/Images"
   ]
 }
