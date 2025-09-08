@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sides/Cauliflower Mash.md",
+                "file": "Recipes/Soup/Beef Stew.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Cauliflower Mash"
+              "title": "Beef Stew"
             }
           }
         ]
@@ -201,10 +201,13 @@
   },
   "active": "f2f5fbb5774e1884",
   "lastOpenFiles": [
+    "Recipes/Formulas/Quick Brine.md",
+    "Recipes/Soup/Beef Stew.md",
+    "Recipes/Formulas",
+    "Recipes/Sides/Cauliflower Mash.md",
     "Recipes/Sauces & Bases/Roasted Pepper Pesto.md",
     "Recipes/Sides/Cauliflower Foccacia.md",
     "Recipes/Soup/Tomato Soup.md",
-    "Recipes/Sides/Cauliflower Mash.md",
     "Recipes/Entree/Pan-seared Pork Chops with Mushroom Cream Sauce.md",
     "Recipes/Sides/Zucchini au gratin.md",
     "Recipes/Sides/Zucchini au Gratin (no roux).md",
@@ -229,14 +232,11 @@
     "Recipes/Sauces & Bases/Lime Crema.md",
     "Recipes/Sauces & Bases/Marinara Sauce.md",
     "Recipes/Ingredients/Arrowroot Powder.md",
-    "Recipes/Ingredients/sambal oelek.md",
-    "Recipes/Sauces & Bases/Mexican Adobo Sauce (low carb).md",
     "Recipes/normalize_serving_size.py",
     "Recipes/uc_serving_size.py",
     "Recipes/uc_first_filenames.py",
     "Recipes/fetch_nutrition.py",
     "Recipes/Sides",
-    "Recipes/Images/Keto-Corn-Dog-Recipe-(Mini-Muffins).jpg",
-    "Recipes/Images"
+    "Recipes/Images/Keto-Corn-Dog-Recipe-(Mini-Muffins).jpg"
   ]
 }
