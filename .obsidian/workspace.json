@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Soup/Beef Stew.md",
+                "file": "Recipes/Sauces & Bases/Lasagna Sauce.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Beef Stew"
+              "title": "Lasagna Sauce"
             }
           }
         ]
@@ -201,8 +201,9 @@
   },
   "active": "f2f5fbb5774e1884",
   "lastOpenFiles": [
-    "Recipes/Formulas/Quick Brine.md",
     "Recipes/Soup/Beef Stew.md",
+    "Recipes/Sauces & Bases/Lasagna Sauce.md",
+    "Recipes/Formulas/Quick Brine.md",
     "Recipes/Formulas",
     "Recipes/Sides/Cauliflower Mash.md",
     "Recipes/Sauces & Bases/Roasted Pepper Pesto.md",
@@ -231,7 +232,6 @@
     "Recipes/Entree/Chicken Tinga.md",
     "Recipes/Sauces & Bases/Lime Crema.md",
     "Recipes/Sauces & Bases/Marinara Sauce.md",
-    "Recipes/Ingredients/Arrowroot Powder.md",
     "Recipes/normalize_serving_size.py",
     "Recipes/uc_serving_size.py",
     "Recipes/uc_first_filenames.py",
