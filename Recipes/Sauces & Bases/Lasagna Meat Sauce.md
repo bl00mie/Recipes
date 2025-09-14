@@ -61,5 +61,5 @@ tags: lasagna,meat-sauce,ragù,tomato,low-carb,diabetic-friendly,Italian
 - Meat variation: Use beef + veal + pork for a traditional ragù, or swap in turkey for leaner sauce.  
 - Texture control: Longer simmer = deeper flavor and thicker consistency.  
 - Flavor boost: A pinch of red pepper flakes adds subtle heat.  
-- Serving ideas: Perfect for [[zucchini noodle lasagna]], [[cauliflower focaccia pizza]], or spooned over roasted vegetables.  
-- Related cards: [[zucchini noodle lasagna]], [[garden tomato sauce]], [[low-carb Italian sauces]].  
+- Serving ideas: Perfect for [[Zucchini noodle lasagna]], [[cauliflower focaccia pizza]], or spooned over roasted vegetables.  
+- Related cards: [[Zucchini noodle lasagna]], [[garden tomato sauce]], [[low-carb Italian sauces]].  
