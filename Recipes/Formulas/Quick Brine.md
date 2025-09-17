@@ -1,8 +1,9 @@
 ---
 title: Quick Brine Formula
 servings: n/a
-serving_size: n/a
-calories: n/a
+serving_size_n/a: 1
+
+calories_kcal: n/a
 protein_g: n/a
 fat_g: n/a
 saturated_fat_g: n/a
@@ -22,6 +23,7 @@ tags:
 - pork
 - chicken
 - reference
+net_carbohydrates_g: 0
 ---
 
 ### Base Formula

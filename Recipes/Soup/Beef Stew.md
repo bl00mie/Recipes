@@ -1,7 +1,8 @@
 ---
 title: Low-Carb Beef Stew with Rutabaga, Radish, and Carrot
 servings: 6
-serving_size: about 1 1/2 cups (350 g)
+serving_size_cup: 1.5
+
 calories: 360
 protein_g: 32
 fat_g: 22

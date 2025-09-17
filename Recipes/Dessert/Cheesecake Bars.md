@@ -1,9 +1,10 @@
 ---
-carbs: 
-kcal: 
+carbs: null
+kcal: null
 tags:
-  - "#dessert"
-  - "#lowcarb"
+- '#dessert'
+- '#lowcarb'
+net_carbohydrates_g: 0
 ---
 ### Ingredients
 ---

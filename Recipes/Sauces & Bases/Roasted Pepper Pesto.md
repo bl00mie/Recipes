@@ -1,8 +1,9 @@
 ---
 title: Roasted Red Pepper Pesto
 servings: 8
-serving_size: about 1/4 cup (60 g)
-calories: 120
+serving_size_cup: 0.25
+
+calories_kcal: 120
 protein_g: 3
 fat_g: 10
 saturated_fat_g: 2
@@ -16,13 +17,15 @@ potassium_mg: 250
 calcium_mg: 60
 iron_mg: 1
 vitamin_d_mcg: 0
-nutrition_note: A smoky, slightly sweet pesto variation; lower carb and great as a sauce for chicken, fish, or cauliflower focaccia.
+nutrition_note: A smoky, slightly sweet pesto variation; lower carb and great as a
+  sauce for chicken, fish, or cauliflower focaccia.
 tags:
 - sauce
 - pesto
 - roasted-pepper
 - low-carb
 - diabetic-friendly
+net_carbohydrates_g: 0
 ---
 
 ### Ingredients

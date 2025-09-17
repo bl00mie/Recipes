@@ -10,6 +10,7 @@ fat_g: 5.5
 saturated_fat_g: 1.0
 cholesterol_mg: 5.0
 sodium_mg: 280.0
+net_carbohydrates_g: 4.5
 ---
 
 ## Ingredients

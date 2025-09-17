@@ -1,7 +1,8 @@
 ---
 title: Creamy Cauliflower Mash
 servings: 4
-serving_size: about 1 cup (200 g)
+serving_size_cup: 1
+
 calories: 110
 protein_g: 4
 fat_g: 7

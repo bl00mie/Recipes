@@ -1,7 +1,8 @@
 ---
 title: Pan-Seared Pork Chops with Mushroom Cream Sauce
 servings: 4
-serving_size: 1 chop with sauce (about 1 1/2 cups, 275 g)
+serving_size_chop: 1
+
 calories: 420
 protein_g: 38
 fat_g: 25

@@ -13,6 +13,7 @@ fiber_g: 8
 protein_g: 42
 sodium_mg: 1.0490000247955322
 sugar_g: 18
+net_carbohydrates_g: 39
 ---
 # Ingredients
 ---

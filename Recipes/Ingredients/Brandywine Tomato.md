@@ -9,6 +9,7 @@ fat_g: 0.2
 saturated_fat_g: 0.0
 cholesterol_mg: 0.0
 sodium_mg: 5.0
+net_carbohydrates_g: 2.5
 ---
 
 ## Summary

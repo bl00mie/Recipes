@@ -1,16 +1,16 @@
 ---
-source: Chad & Copilot riffing  
+source: Chad & Copilot riffing
 serving_size_tbsp: 2
-
-calories_kcal: 25  
-carbohydrates_g: 3  
-sugar_g: 1  
-fiber_g: 1  
-protein_g: 1  
-fat_g: 1  
-saturated_fat_g: 0  
-cholesterol_mg: 0  
-sodium_mg: 250  
+calories_kcal: 25
+carbohydrates_g: 3
+sugar_g: 1
+fiber_g: 1
+protein_g: 1
+fat_g: 1
+saturated_fat_g: 0
+cholesterol_mg: 0
+sodium_mg: 250
+net_carbohydrates_g: 2
 ---
 #Ingredients
 ---

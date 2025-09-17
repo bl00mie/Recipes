@@ -1,7 +1,6 @@
 ---
 source: Nutritionix API
 serving_size_cup: 0.25
-
 calories_kcal: 19
 carbohydrates_g: 4.4
 sugar_g: 2.7
@@ -11,5 +10,6 @@ fat_g: 0.2
 saturated_fat_g: 0.0
 cholesterol_mg: 0
 sodium_mg: 113
+net_carbohydrates_g: 3.3000000000000003
 ---
 

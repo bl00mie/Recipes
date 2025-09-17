@@ -1,7 +1,8 @@
 ---
 title: Creamy Tomato Soup
 servings: 4
-serving_size: about 1 1/2 cups (300 g)
+serving_size_cup: 1.5
+
 calories: 180
 protein_g: 4
 fat_g: 11

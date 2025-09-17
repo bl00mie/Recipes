@@ -1,5 +1,5 @@
 ---
-title: Zucchini Noodle Lasagna — low-carb
+title: "Zucchini Noodle Lasagna \u2014 low-carb"
 servings: 12
 serving_size_cup: 1.5
 serving_size_g: 220
@@ -18,8 +18,16 @@ potassium_mg: 640
 calcium_mg: 280
 iron_mg: 2.5
 vitamin_d_mcg: 0.7
-nutrition_note: Estimates per serving; assumes lean ground beef/pork mix, zucchini noodles pre-salted & baked, and ricotta mixture as written.
-tags: lasagna,zucchini,low-carb,italian,comfort-food,diabetic-friendly
+nutrition_note: Estimates per serving; assumes lean ground beef/pork mix, zucchini
+  noodles pre-salted & baked, and ricotta mixture as written.
+tags:
+- lasagna
+- zucchini
+- low-carb
+- italian
+- comfort-food
+- diabetic-friendly
+net_carbohydrates_g: 6.8999999999999995
 ---
 
 ### Ingredients

@@ -1,7 +1,8 @@
 ---
 title: Cauliflower Focaccia
 servings: 6
-serving_size: 1 square (about 100 g)
+serving_size_square: 1
+
 calories: 160
 protein_g: 7
 fat_g: 10

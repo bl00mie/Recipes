@@ -1,7 +1,7 @@
 ---
 title: Roasted Red Pepper Pesto Flatbread Pizza (Cauliflower Focaccia Base)
 servings: 6
-serving_size_cup: 1 slice (1/6 pizza)
+serving_size_cup: 1
 serving_size_g: 145
 calories_kcal: 268
 protein_g: 14.2
@@ -19,8 +19,16 @@ potassium_mg: 360
 calcium_mg: 195
 iron_mg: 1.1
 vitamin_d_mcg: 0.4
-nutrition_note: Estimates per serving; assumes cauliflower focaccia base, roasted red pepper pesto, prosciutto, arugula, and Parmesan.
-tags: pizza,flatbread,cauliflower,low-carb,diabetic-friendly,Italian,roasted-pepper
+nutrition_note: Estimates per serving; assumes cauliflower focaccia base, roasted
+  red pepper pesto, prosciutto, arugula, and Parmesan.
+tags:
+- pizza
+- flatbread
+- cauliflower
+- low-carb
+- diabetic-friendly
+- Italian
+- roasted-pepper
 ---
 
 ### Ingredients
