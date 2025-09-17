@@ -1,7 +1,6 @@
 ---
 source: https://juliasalbum.com/spicy-shrimp-pasta-in-garlic-tomato-cream-sauce-recipe/
-serving_size: 1
-
+serving_size_g: 1
 calories_kcal: 543
 carbohydrates_g: 55
 cholesterol_mg: 326
@@ -12,6 +11,7 @@ protein_g: 33
 sodium_mg: 1205
 sugar_g: 8
 net_carbohydrates_g: 51
+tags: []
 ---
 # Ingredients
 ---

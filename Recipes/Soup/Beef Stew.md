@@ -1,9 +1,8 @@
 ---
 title: Low-Carb Beef Stew with Rutabaga, Radish, and Carrot
 servings: 6
-serving_size_cup: 1.5
-
-calories: 360
+serving_size_cup: 2
+calories_kcal: 360
 protein_g: 32
 fat_g: 22
 saturated_fat_g: 8
@@ -16,8 +15,9 @@ cholesterol_mg: 100
 potassium_mg: 850
 calcium_mg: 60
 iron_mg: 4
-vitamin_d_mcg: 0.2
-nutrition_note: Classic beef stew flavor with low-carb root veg swaps; balanced for diabetics.
+vitamin_d_mcg: 0
+nutrition_note: Classic beef stew flavor with low-carb root veg swaps; balanced for
+  diabetics.
 tags:
 - beef
 - stew
@@ -25,8 +25,8 @@ tags:
 - radish
 - low-carb
 - diabetic-friendly
+net_carbohydrates_g: 0
 ---
-
 ### Ingredients
 ---
 - 2 pounds [[beef chuck]], cut into 1 1/2 inch cubes

@@ -1,23 +1,23 @@
 ---
-title: "Garlic-Parmesan Dipping Oil \u2014 low-carb"
+title: Garlic-Parmesan Dipping Oil — low-carb
 servings: 6
 serving_size_cup: 2
 serving_size_g: 30
 calories_kcal: 145
-protein_g: 0.7
-fat_g: 16.0
-saturated_fat_g: 2.5
+protein_g: 1
+fat_g: 16
+saturated_fat_g: 2
 trans_fat_g: 0
-carbohydrates_g: 1.1
-fiber_g: 0.2
-total_sugars_g: 0.1
+carbohydrates_g: 1
+fiber_g: 0
+total_sugars_g: 0
 added_sugars_g: 0
-net_carbohydrates_g: 0.9000000000000001
+net_carbohydrates_g: 1
 sodium_mg: 120
 cholesterol_mg: 0
 potassium_mg: 20
 calcium_mg: 25
-iron_mg: 0.2
+iron_mg: 0
 vitamin_d_mcg: 0
 nutrition_note: Estimates per serving; based on olive oil, garlic, herbs, and Parmesan.
 tags:
@@ -29,7 +29,6 @@ tags:
 - appetizer
 - Italian
 ---
-
 ### Ingredients
 ---
 - ½ cup [[extra virgin olive oil]]

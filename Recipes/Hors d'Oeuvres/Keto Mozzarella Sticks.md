@@ -1,13 +1,13 @@
 ---
 source: https://thebigmansworld.com/keto-mozzarella-sticks/
-serving_size: 1
-
+serving_size_g: 1
 calories_kcal: 81
 carbohydrates_g: 1
 fat_g: 6
 protein_g: 7
 sodium_mg: 247
 net_carbohydrates_g: 0
+tags: []
 ---
 # Ingredients
 ---

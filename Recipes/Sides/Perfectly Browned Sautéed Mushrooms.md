@@ -1,7 +1,6 @@
 ---
 source: https://www.bowlofdelicious.com/sauteed-mushrooms/
-serving_size: 1
-
+serving_size_g: 1
 calories_kcal: 75
 carbohydrates_g: 4
 cholesterol_mg: 15
@@ -11,6 +10,8 @@ fiber_g: 1
 protein_g: 4
 sodium_mg: 201
 sugar_g: 2
+net_carbohydrates_g: 3
+tags: []
 ---
 # Ingredients
 ---

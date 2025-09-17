@@ -4,21 +4,21 @@ servings: 6
 serving_size_cup: 1
 serving_size_g: 145
 calories_kcal: 268
-protein_g: 14.2
-fat_g: 20.6
-saturated_fat_g: 6.2
+protein_g: 14
+fat_g: 21
+saturated_fat_g: 6
 trans_fat_g: 0
-carbohydrates_g: 6.8
-fiber_g: 2.3
-total_sugars_g: 2.6
+carbohydrates_g: 7
+fiber_g: 2
+total_sugars_g: 3
 added_sugars_g: 0
-net_carbohydrates_g: 4.5
+net_carbohydrates_g: 4
 sodium_mg: 615
 cholesterol_mg: 65
 potassium_mg: 360
 calcium_mg: 195
-iron_mg: 1.1
-vitamin_d_mcg: 0.4
+iron_mg: 1
+vitamin_d_mcg: 0
 nutrition_note: Estimates per serving; assumes cauliflower focaccia base, roasted
   red pepper pesto, prosciutto, arugula, and Parmesan.
 tags:
@@ -30,7 +30,6 @@ tags:
 - Italian
 - roasted-pepper
 ---
-
 ### Ingredients
 ---
 **For the base:**  

@@ -1,17 +1,17 @@
 ---
 source: https://www.wholesomeyum.com/keto-orange-chicken/
-serving_size: 1
-
+serving_size_g: 1
 calories_kcal: 367
-carbohydrates_g: 7.699999809265137
-cholesterol_mg: 113.19999694824219
-fat_g: 22.200000762939453
-saturated_fat_g: 3.0999999046325684
-fiber_g: 0.30000001192092896
-protein_g: 41.70000076293945
-sodium_mg: 718.5999755859375
-sugar_g: 6.099999904632568
-net_carbohydrates_g: 7.399999797344208
+carbohydrates_g: 8
+cholesterol_mg: 113
+fat_g: 22
+saturated_fat_g: 3
+fiber_g: 0
+protein_g: 42
+sodium_mg: 719
+sugar_g: 6
+net_carbohydrates_g: 7
+tags: []
 ---
 # Ingredients
 ---

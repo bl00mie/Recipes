@@ -1,7 +1,6 @@
 ---
 source: https://www.onceuponachef.com/recipes/baked-salmon-honey-mustard-pecan-crust.html
-serving_size: 1
-
+serving_size_g: 1
 calories_kcal: 482
 carbohydrates_g: 8
 cholesterol_mg: 102
@@ -13,6 +12,7 @@ protein_g: 36
 sodium_mg: 467
 sugar_g: 2
 net_carbohydrates_g: 7
+tags: []
 ---
 # Ingredients
 ---

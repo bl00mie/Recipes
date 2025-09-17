@@ -1,15 +1,16 @@
 ---
-source: 
-serving_size_calories_kcal:: 1
-
-carbohydrates_g: 
-cholesterol_mg: 
-fat_g: 
-saturated_fat_g: 
-fiber_g: 
-protein_g: 
-sodium_mg: 
-sugar_g:
+source: null
+'serving_size_calories_kcal:': 1
+carbohydrates_g: null
+cholesterol_mg: null
+fat_g: null
+saturated_fat_g: null
+fiber_g: null
+protein_g: null
+sodium_mg: null
+sugar_g: null
+net_carbohydrates_g: 0
+tags: []
 ---
 # Ingredients
 ---

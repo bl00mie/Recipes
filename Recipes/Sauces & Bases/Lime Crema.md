@@ -1,15 +1,15 @@
 ---
 serving_size_tbsp: 2
 calories_kcal: 45
-carbohydrates_g: 1.2
-sugar_g: 0.8
+carbohydrates_g: 1
+sugar_g: 1
 fiber_g: 0
-fat_g: 4.2
-protein_g: 0.6
+fat_g: 4
+protein_g: 1
 sodium_mg: 60
-net_carbohydrates_g: 1.2
+net_carbohydrates_g: 1
+tags: []
 ---
-
 # Ingredients
 ---
 - 1/2 cup [[sour cream]] full-fat or light

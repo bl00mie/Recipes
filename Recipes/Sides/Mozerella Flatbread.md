@@ -1,28 +1,33 @@
 ---
 title: Mozzarella Flatbread — low-carb (fathead dough)
 servings: 6
-serving_size_cup: 1 piece (1/6 flatbread)
+serving_size_cup: 1
 serving_size_g: 85
 calories_kcal: 265
-protein_g: 13.2
-fat_g: 21.3
-saturated_fat_g: 8.2
-trans_fat_g: 0.2
-carbohydrates_g: 7.4
-fiber_g: 3.0
-total_sugars_g: 1.4
+protein_g: 13
+fat_g: 21
+saturated_fat_g: 8
+trans_fat_g: 0
+carbohydrates_g: 7
+fiber_g: 3
+total_sugars_g: 1
 added_sugars_g: 0
-net_carbohydrates_g: 4.4
+net_carbohydrates_g: 4
 sodium_mg: 370
 cholesterol_mg: 55
 potassium_mg: 120
 calcium_mg: 195
-iron_mg: 1.3
-vitamin_d_mcg: 0.2
+iron_mg: 1
+vitamin_d_mcg: 0
 nutrition_note: Estimates per serving; based on almond flour fathead dough, no toppings.
-tags: flatbread,mozzarella,low-carb,keto,diabetic-friendly,comfort-food
+tags:
+- flatbread
+- mozzarella
+- low-carb
+- keto
+- diabetic-friendly
+- comfort-food
 ---
-
 ### Ingredients
 ---
 - 1 ½ cups (6 oz) shredded [[mozzarella cheese]], low-moisture part-skim

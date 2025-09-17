@@ -201,6 +201,7 @@
   },
   "active": "ed883abbd61e2cdc",
   "lastOpenFiles": [
+    "Recipes/normalize_vault_tags.py",
     "Recipes/Soup/Creamy Tuscan Chicken Soup.md",
     "Recipes/Soup/Creamy Green Chile Chicken Soup.md",
     "Recipes/Entree/Zucchini noodle lasagna.md",
@@ -231,7 +232,6 @@
     "Recipes/Ingredients/vanilla extract.md",
     "Templates/🍅 Tomato Preservation Log – YYYY-MM-DD.md",
     "Templates",
-    "Recipes/Sauces & Bases/Fauxnapple Salsa.md",
     "Recipes/normalize_serving_size.py",
     "Recipes/uc_serving_size.py",
     "Recipes/uc_first_filenames.py",

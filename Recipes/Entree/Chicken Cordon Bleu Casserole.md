@@ -1,18 +1,18 @@
 ---
 source: https://www.wholesomeyum.com/chicken-cordon-bleu-casserole/
-serving_size: 1
-
+serving_size_g: 1
 calories_kcal: 353
-carbohydrates_g: 4.300000190734863
-cholesterol_mg: 88.0999984741211
-fat_g: 25.299999237060547
-saturated_fat_g: 7.900000095367432
-unsaturated_fat_g: 7.699999809265137
-fiber_g: 1.100000023841858
-protein_g: 26.899999618530273
-sodium_mg: 494.3999938964844
-sugar_g: 1.7999999523162842
-net_carbohydrates_g: 3.2000001668930054
+carbohydrates_g: 4
+cholesterol_mg: 88
+fat_g: 25
+saturated_fat_g: 8
+unsaturated_fat_g: 8
+fiber_g: 1
+protein_g: 27
+sodium_mg: 494
+sugar_g: 2
+net_carbohydrates_g: 3
+tags: []
 ---
 # Ingredients
 ---

@@ -1,19 +1,19 @@
 ---
 source: https://www.wholesomeyum.com/cauliflower-chicken-fried-rice/
-serving_size: 1
-
+serving_size_g: 1
 calories_kcal: 286
 carbohydrates_g: 13
-cholesterol_mg: 180.60000610351562
-fat_g: 12.5
-saturated_fat_g: 5.199999809265137
-unsaturated_fat_g: 5.300000190734863
-trans_fat_g: 0.30000001192092896
-fiber_g: 3.9000000953674316
-protein_g: 30.700000762939453
-sodium_mg: 796.5999755859375
-sugar_g: 5.800000190734863
-net_carbohydrates_g: 9.099999904632568
+cholesterol_mg: 181
+fat_g: 12
+saturated_fat_g: 5
+unsaturated_fat_g: 5
+trans_fat_g: 0
+fiber_g: 4
+protein_g: 31
+sodium_mg: 797
+sugar_g: 6
+net_carbohydrates_g: 9
+tags: []
 ---
 # Ingredients
 ---

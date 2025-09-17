@@ -4,23 +4,25 @@ servings: 6
 serving_size_cup: 1
 serving_size_g: 240
 calories_kcal: 318
-protein_g: 10.4
-fat_g: 25.2
-saturated_fat_g: 14.6
-trans_fat_g: 0.3
-carbohydrates_g: 6.9
-fiber_g: 3.0
-total_sugars_g: 6.8
+protein_g: 10
+fat_g: 25
+saturated_fat_g: 15
+trans_fat_g: 0
+carbohydrates_g: 7
+fiber_g: 3
+total_sugars_g: 7
 added_sugars_g: 0
 sodium_mg: 995
 cholesterol_mg: 68
 potassium_mg: 615
 calcium_mg: 238
-iron_mg: 1.3
-vitamin_d_mcg: 0.6
-nutrition_note: Estimates per serving; assumes heavy cream + water, almond flour roux, arrowroot slurry, and pork rind crust.
+iron_mg: 1
+vitamin_d_mcg: 1
+nutrition_note: Estimates per serving; assumes heavy cream + water, almond flour roux,
+  arrowroot slurry, and pork rind crust.
+net_carbohydrates_g: 4
+tags: []
 ---
-
 ### Ingredients
 ---
 - 2 lb [[zucchini]] (≈ 8 cups), sliced into ¼-inch rounds

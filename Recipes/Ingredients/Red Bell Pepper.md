@@ -1,15 +1,15 @@
 ---
 source: Nutritionix API
-serving_size_cup: 0.25
+serving_size_cup: 0
 calories_kcal: 9
-carbohydrates_g: 2.3
-sugar_g: 1.5
-fiber_g: 0.4
-protein_g: 0.3
-fat_g: 0.1
-saturated_fat_g: 0.0
+carbohydrates_g: 2
+sugar_g: 2
+fiber_g: 0
+protein_g: 0
+fat_g: 0
+saturated_fat_g: 0
 cholesterol_mg: 0
 sodium_mg: 1
-net_carbohydrates_g: 1.9
+net_carbohydrates_g: 2
+tags: []
 ---
-

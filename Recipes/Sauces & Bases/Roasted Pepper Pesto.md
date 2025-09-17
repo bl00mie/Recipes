@@ -1,8 +1,7 @@
 ---
 title: Roasted Red Pepper Pesto
 servings: 8
-serving_size_cup: 0.25
-
+serving_size_cup: 0
 calories_kcal: 120
 protein_g: 3
 fat_g: 10
@@ -27,7 +26,6 @@ tags:
 - diabetic-friendly
 net_carbohydrates_g: 0
 ---
-
 ### Ingredients
 ---
 - 2 large roasted [[red bell peppers]], peeled and seeded

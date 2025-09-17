@@ -2,17 +2,17 @@
 servings: 6
 serving_size_g: 120
 calories_kcal: 90
-carbohydrates_g: 6.5
-sugar_g: 4.2
-fiber_g: 2.0
-protein_g: 2.0
-fat_g: 5.5
-saturated_fat_g: 1.0
-cholesterol_mg: 5.0
-sodium_mg: 280.0
-net_carbohydrates_g: 4.5
+carbohydrates_g: 6
+sugar_g: 4
+fiber_g: 2
+protein_g: 2
+fat_g: 6
+saturated_fat_g: 1
+cholesterol_mg: 5
+sodium_mg: 280
+net_carbohydrates_g: 4
+tags: []
 ---
-
 ## Ingredients
 - 2 lb [[Brandywine Tomato]] skinned and crushed  
 - 1 lb [[Moskovich Tomato]] skinned and chopped  

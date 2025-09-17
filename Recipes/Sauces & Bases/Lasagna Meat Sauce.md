@@ -1,36 +1,35 @@
 ---
-title: "Lasagna Meat Sauce \u2014 low-carb, garden tomato"
+title: Lasagna Meat Sauce — low-carb, garden tomato
 servings: 8
 serving_size_cup: 3
 serving_size_g: 180
 calories_kcal: 245
-protein_g: 18.6
-fat_g: 15.8
-saturated_fat_g: 6.1
+protein_g: 19
+fat_g: 16
+saturated_fat_g: 6
 trans_fat_g: 0
-carbohydrates_g: 9.4
-fiber_g: 2.6
-total_sugars_g: 5.1
+carbohydrates_g: 9
+fiber_g: 3
+total_sugars_g: 5
 added_sugars_g: 0
-net_carbohydrates_g: 6.800000000000001
+net_carbohydrates_g: 7
 sodium_mg: 640
 cholesterol_mg: 55
 potassium_mg: 680
 calcium_mg: 65
-iron_mg: 2.4
-vitamin_d_mcg: 0.2
+iron_mg: 2
+vitamin_d_mcg: 0
 nutrition_note: Estimates per serving; assumes beef + pork sausage, fresh stewed garden
   tomatoes, and olive oil base.
 tags:
 - lasagna
 - meat-sauce
-- "rag\xF9"
+- ragù
 - tomato
 - low-carb
 - diabetic-friendly
 - Italian
 ---
-
 ### Ingredients
 ---
 - 1 lb ground [[beef]] (80/20 or leaner)  

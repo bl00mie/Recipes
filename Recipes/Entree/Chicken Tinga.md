@@ -1,15 +1,15 @@
 ---
-serving_size_cup: 0.75
+serving_size_cup: 1
 calories_kcal: 210
-carbohydrates_g: 6.5
-sugar_g: 3.2
-fiber_g: 1.4
-fat_g: 9.8
+carbohydrates_g: 6
+sugar_g: 3
+fiber_g: 1
+fat_g: 10
 protein_g: 22
 sodium_mg: 580
-net_carbohydrates_g: 5.1
+net_carbohydrates_g: 5
+tags: []
 ---
-
 # Ingredients
 ---
 - 1 tbsp [[olive oil]]

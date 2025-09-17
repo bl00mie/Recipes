@@ -2,7 +2,6 @@
 title: Quick Brine Formula
 servings: n/a
 serving_size_n/a: 1
-
 calories_kcal: n/a
 protein_g: n/a
 fat_g: n/a
@@ -25,7 +24,6 @@ tags:
 - reference
 net_carbohydrates_g: 0
 ---
-
 ### Base Formula
 ---
 - 4 cups [[water]]

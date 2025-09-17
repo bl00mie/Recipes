@@ -1,7 +1,6 @@
 ---
 source: https://nourishedbynic.com/turkey-apple-cheddar-quesadilla/
-serving_size: 1
-
+serving_size_g: 1
 calories_kcal: 584
 carbohydrates_g: 46
 cholesterol_mg: 48
@@ -13,6 +12,7 @@ protein_g: 20
 sodium_mg: 922
 sugar_g: 13
 net_carbohydrates_g: 34
+tags: []
 ---
 # Ingredients
 ---

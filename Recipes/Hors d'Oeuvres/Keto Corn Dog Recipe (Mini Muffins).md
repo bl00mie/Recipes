@@ -1,19 +1,19 @@
 ---
 source: https://www.wholesomeyum.com/keto-corn-dog-recipe/
-serving_size: 1
-
+serving_size_g: 1
 calories_kcal: 353
-carbohydrates_g: 7.599999904632568
-cholesterol_mg: 96.4000015258789
-fat_g: 32.29999923706055
-saturated_fat_g: 8.5
-unsaturated_fat_g: 7.699999809265137
-trans_fat_g: 0.30000001192092896
-fiber_g: 2.200000047683716
+carbohydrates_g: 8
+cholesterol_mg: 96
+fat_g: 32
+saturated_fat_g: 8
+unsaturated_fat_g: 8
+trans_fat_g: 0
+fiber_g: 2
 protein_g: 12
-sodium_mg: 481.20001220703125
-sugar_g: 1.600000023841858
-net_carbohydrates_g: 5.3999998569488525
+sodium_mg: 481
+sugar_g: 2
+net_carbohydrates_g: 5
+tags: []
 ---
 # Ingredients
 ---

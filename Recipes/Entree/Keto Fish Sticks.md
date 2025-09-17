@@ -1,18 +1,18 @@
 ---
 source: https://www.wholesomeyum.com/keto-fried-fish/
-serving_size: 1
-
+serving_size_g: 1
 calories_kcal: 333
-carbohydrates_g: 2.5
-cholesterol_mg: 153.5
-fat_g: 21.200000762939453
-saturated_fat_g: 2.799999952316284
-trans_fat_g: 0.10000000149011612
-fiber_g: 1.399999976158142
-protein_g: 31.5
-sodium_mg: 332.29998779296875
-sugar_g: 0.4000000059604645
-net_carbohydrates_g: 1.100000023841858
+carbohydrates_g: 2
+cholesterol_mg: 154
+fat_g: 21
+saturated_fat_g: 3
+trans_fat_g: 0
+fiber_g: 1
+protein_g: 32
+sodium_mg: 332
+sugar_g: 0
+net_carbohydrates_g: 1
+tags: []
 ---
 # Ingredients
 ---

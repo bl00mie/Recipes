@@ -2,8 +2,7 @@
 title: Creamy Cauliflower Mash
 servings: 4
 serving_size_cup: 1
-
-calories: 110
+calories_kcal: 110
 protein_g: 4
 fat_g: 7
 saturated_fat_g: 4
@@ -16,15 +15,15 @@ cholesterol_mg: 20
 potassium_mg: 420
 calcium_mg: 40
 iron_mg: 1
-vitamin_d_mcg: 0.2
+vitamin_d_mcg: 0
 nutrition_note: Low-carb alternative to mashed potatoes; smooth, rich, and diabetes-friendly.
 tags:
 - cauliflower
 - sides
 - low-carb
 - diabetic-friendly
+net_carbohydrates_g: 0
 ---
-
 ### Ingredients
 ---
 - 1 large head [[cauliflower]], cut into florets (about 6 cups)

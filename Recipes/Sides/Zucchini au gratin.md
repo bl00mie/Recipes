@@ -4,23 +4,25 @@ servings: 6
 serving_size_cup: 1
 serving_size_g: 240
 calories_kcal: 312
-protein_g: 10.2
-fat_g: 24.5
-saturated_fat_g: 14.1
-trans_fat_g: 0.3
-carbohydrates_g: 7.8
-fiber_g: 3.0
-total_sugars_g: 7.2
+protein_g: 10
+fat_g: 24
+saturated_fat_g: 14
+trans_fat_g: 0
+carbohydrates_g: 8
+fiber_g: 3
+total_sugars_g: 7
 added_sugars_g: 0
 sodium_mg: 988
 cholesterol_mg: 65
 potassium_mg: 610
 calcium_mg: 235
-iron_mg: 1.3
-vitamin_d_mcg: 0.6
-nutrition_note: Estimates per serving; assumes heavy cream + water and pork rind crust. Zucchini size and Gruyère brand may affect final values.
+iron_mg: 1
+vitamin_d_mcg: 1
+nutrition_note: Estimates per serving; assumes heavy cream + water and pork rind crust.
+  Zucchini size and Gruyère brand may affect final values.
+net_carbohydrates_g: 5
+tags: []
 ---
-
 ### Ingredients
 ---
 - 2 lb [[zucchini]] (≈ 8 cups), sliced into ¼-inch rounds

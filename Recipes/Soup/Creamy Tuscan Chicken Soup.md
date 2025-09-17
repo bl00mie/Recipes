@@ -19,7 +19,8 @@ potassium_mg: 690
 calcium_mg: 190
 iron_mg: 2
 vitamin_d_mcg: 0
-nutrition_note: Estimates per serving; low-carb, creamy and slightly tangy from sun-dried tomatoes.
+nutrition_note: Estimates per serving; low-carb, creamy and slightly tangy from sun-dried
+  tomatoes.
 tags:
 - soup
 - chicken
@@ -28,7 +29,6 @@ tags:
 - creamy
 - Italian
 ---
-
 ### Ingredients
 ---
 - 1 1/2 lb [[chicken breast]], cut in halves

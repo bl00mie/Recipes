@@ -1,9 +1,11 @@
 ---
-calories_kcal: 45 
+calories_kcal: 45
 carbohydrates_g: 6
 fiber_g: 2
 fat_g: 2
 protein_g: 1
+net_carbohydrates_g: 4
+tags: []
 ---
 ## Ingredients
 - 2 lb [[Tomatoes]] peeled (optional), 

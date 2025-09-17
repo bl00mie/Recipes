@@ -1,17 +1,17 @@
 ---
 source: https://www.wholesomeyum.com/recipes/gluten-free-low-carb-mozzarella-sticks/
-serving_size: 1
-
+serving_size_g: 1
 calories_kcal: 250
-carbohydrates_g: 5.900000095367432
-cholesterol_mg: 2.200000047683716
-fat_g: 18.600000381469727
-saturated_fat_g: 0.6000000238418579
-fiber_g: 2.0999999046325684
-protein_g: 16.799999237060547
-sodium_mg: 48.099998474121094
-sugar_g: 0.5
-net_carbohydrates_g: 3.8000001907348633
+carbohydrates_g: 6
+cholesterol_mg: 2
+fat_g: 19
+saturated_fat_g: 1
+fiber_g: 2
+protein_g: 17
+sodium_mg: 48
+sugar_g: 0
+net_carbohydrates_g: 4
+tags: []
 ---
 # Ingredients
 ---

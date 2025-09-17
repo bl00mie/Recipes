@@ -11,6 +11,7 @@ saturated_fat_g: 0
 cholesterol_mg: 0
 sodium_mg: 250
 net_carbohydrates_g: 2
+tags: []
 ---
 #Ingredients
 ---

@@ -105,10 +105,39 @@ def round_to_int(value: float) -> int:
     """Round float to nearest integer (ties away from zero via round())."""
     return int(round(value))
 
+def clean_tag(tag: str) -> str:
+    """Normalize a single tag string by trimming and unwrapping [[...]]."""
+    t = tag.strip()
+    if t.startswith("[[") and t.endswith("]]"):
+        t = t[2:-2].strip()
+    return t
+
+def normalize_tags(raw_val) -> list[str]:
+    """Convert tags field into a clean YAML list of plain strings."""
+    tags = []
+    if raw_val is None:
+        return tags
+    if isinstance(raw_val, str):
+        # split by comma or whitespace if comma absent
+        parts = [p.strip() for p in raw_val.split(",") if p.strip()]
+        tags = [clean_tag(p) for p in parts]
+    elif isinstance(raw_val, (list, tuple)):
+        tags = [clean_tag(str(t)) for t in raw_val if t is not None and str(t).strip()]
+    else:
+        return []
+
+    # Deduplicate while preserving order
+    seen = set()
+    deduped = []
+    for t in tags:
+        if t not in seen:
+            seen.add(t)
+            deduped.append(t)
+    return deduped
+
 def fix_properties_block(block_text: str) -> str:
     """
     Parse YAML block text and return a normalized YAML block (string).
-    If parsing fails, return the original block_text unchanged.
     """
     try:
         parsed = yaml.safe_load(block_text) or {}
@@ -117,65 +146,42 @@ def fix_properties_block(block_text: str) -> str:
         return block_text
 
     if not isinstance(parsed, dict):
-        # Unexpected structure; don't attempt to change
         return block_text
 
     fixed: Dict[str, Any] = {}
 
-    # Preserve insertion order as much as possible by iterating items()
     for raw_key, raw_val in parsed.items():
         key = str(raw_key).strip()
 
-        # Normalize tags into a list
+        # Special case: tags
         if key.lower() == "tags":
-            # If tags is a comma-separated string, split
-            if raw_val is None:
-                fixed["tags"] = []
-            elif isinstance(raw_val, str):
-                # allow both comma-separated or YAML-style newline lists; split by comma
-                tags = [t.strip() for t in raw_val.split(",") if t.strip()]
-                fixed["tags"] = tags
-            elif isinstance(raw_val, (list, tuple)):
-                fixed["tags"] = [str(t).strip() for t in raw_val if t is not None and str(t).strip()]
-            else:
-                # fallback
-                fixed["tags"] = []
+            fixed["tags"] = normalize_tags(raw_val)
             continue
 
-        # Try to parse numeric value
+        # Try numeric
         numeric = parse_numeric(raw_val)
         if numeric is not None:
-            # Round and store as integer
             int_val = round_to_int(numeric)
-            # Determine output key name
             out_key = normalize_key_name(key)
             fixed[out_key] = int_val
         else:
-            # Non-numeric: keep original key name (but still normalize unitless base names if they match)
             out_key = normalize_key_name(key)
-            # If value is None, keep None (but callers should handle missing numeric values)
             fixed[out_key] = raw_val
 
-    # Ensure net_carbohydrates_g exists (compute if possible)
+    # Ensure net carbs
     if "net_carbohydrates_g" not in fixed:
         carbs = fixed.get("carbohydrates_g")
         fiber = fixed.get("fiber_g")
         if isinstance(carbs, int) and isinstance(fiber, int):
-            net = carbs - fiber
-            if net < 0:
-                net = 0
+            net = max(carbs - fiber, 0)
             fixed["net_carbohydrates_g"] = net
         else:
-            # cannot compute; default to 0
             fixed["net_carbohydrates_g"] = 0
 
-    # Ensure tags exists (even if empty)
     if "tags" not in fixed:
         fixed["tags"] = []
 
-    # Dump YAML with stable key order (insertion order preserved)
     dumped = yaml.safe_dump(fixed, sort_keys=False, allow_unicode=True)
-    # safe_dump returns a YAML document without the surrounding --- lines; return inner text
     return dumped.strip()
 
 def process_file(path: str, make_backup: bool = True) -> None:

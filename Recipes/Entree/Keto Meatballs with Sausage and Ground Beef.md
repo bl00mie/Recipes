@@ -1,19 +1,19 @@
 ---
 source: https://joyfilledeats.com/keto-meatballs/
-serving_size: 1
-
-calories_kcal: 410.70001220703125
-carbohydrates_g: 1.7999999523162842
-cholesterol_mg: 117.69999694824219
-fat_g: 33.79999923706055
-saturated_fat_g: 13.399999618530273
-unsaturated_fat_g: 17.299999237060547
-trans_fat_g: 0.699999988079071
-fiber_g: 0.10000000149011612
-protein_g: 23.299999237060547
-sodium_mg: 906.4000244140625
-sugar_g: 0.30000001192092896
-net_carbohydrates_g: 1.699999950826168
+serving_size_g: 1
+calories_kcal: 411
+carbohydrates_g: 2
+cholesterol_mg: 118
+fat_g: 34
+saturated_fat_g: 13
+unsaturated_fat_g: 17
+trans_fat_g: 1
+fiber_g: 0
+protein_g: 23
+sodium_mg: 906
+sugar_g: 0
+net_carbohydrates_g: 2
+tags: []
 ---
 # Ingredients
 ---

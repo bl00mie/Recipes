@@ -1,19 +1,19 @@
 ---
-source: https://downshiftology.com/recipes/creamy-tuscan-chicken/comment-page-1/#wprm-recipe-container-62872
-serving_size: 1
-
+source: -1
+serving_size_g: 1
 calories_kcal: 595
 carbohydrates_g: 9
 cholesterol_mg: 179
 fat_g: 49
 saturated_fat_g: 24
 unsaturated_fat_g: 21
-trans_fat_g: 0.009999999776482582
+trans_fat_g: 0
 fiber_g: 2
 protein_g: 30
 sodium_mg: 896
 sugar_g: 3
 net_carbohydrates_g: 7
+tags: []
 ---
 # Ingredients
 ---

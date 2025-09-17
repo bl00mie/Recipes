@@ -1,19 +1,19 @@
 ---
 source: https://nourishedbynic.com/fresh-fish-tacos-with-mango-salsa/
-serving_size: 1
-
+serving_size_g: 1
 calories_kcal: 556
 carbohydrates_g: 47
 cholesterol_mg: 89
 fat_g: 25
 saturated_fat_g: 4
 unsaturated_fat_g: 19
-trans_fat_g: 0.019999999552965164
+trans_fat_g: 0
 fiber_g: 8
 protein_g: 42
-sodium_mg: 1.0490000247955322
+sodium_mg: 1
 sugar_g: 18
 net_carbohydrates_g: 39
+tags: []
 ---
 # Ingredients
 ---

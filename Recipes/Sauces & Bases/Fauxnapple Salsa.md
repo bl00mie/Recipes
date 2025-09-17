@@ -1,6 +1,6 @@
 ---
 source: Chad & Copilot riffing
-serving_size_cup: 0.25
+serving_size_cup: 0
 calories_kcal: 20
 carbohydrates_g: 3
 sugar_g: 1
@@ -11,6 +11,7 @@ saturated_fat_g: 0
 cholesterol_mg: 0
 sodium_mg: 150
 net_carbohydrates_g: 2
+tags: []
 ---
 #Ingredients
 ---
