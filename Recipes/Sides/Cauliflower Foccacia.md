@@ -18,12 +18,16 @@ calcium_mg: 120
 iron_mg: 1
 vitamin_d_mcg: 0.5
 nutrition_note: Low-carb, bread-like base made with cauliflower; great with soups, spreads, or pizza toppings.
-tags: [[cauliflower]], [[bread]], [[low-carb]], [[diabetic-friendly]]
+tags:
+  - cauliflower
+  - bread
+  - low-carb
+  - diabetic-friendly
 ---
 
 ### Ingredients
 ---
-- 1 medium head [[cauliflower]], riced (about 4 cups)
+- 24 oz [[Cauliflower Rice]] (~4 cups or 2 frozen costco bags)
 - 2 large [[eggs]]
 - 1 cup [[mozzarella cheese]], shredded
 - 1/4 cup [[parmesan cheese]], grated
