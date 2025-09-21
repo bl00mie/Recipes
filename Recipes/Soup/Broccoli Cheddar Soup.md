@@ -34,7 +34,7 @@ tags:
 - 2 cloves [[garlic]], minced
 - 4 cups [[chicken stock]] (or vegetable stock)
 - 1 lb [[Broccoli Cheddar Soup]], cut into florets and stems (≈ 6 cups)
-- 1/2 cup [[heavy cream]]
+- 1 cup [[heavy cream]]
 - 4 oz [[mascarpone]] (or cream cheese), cubed and softened
 - 8 oz sharp [[cheddar]], grated
 - kosher [[salt]] and [[black pepper]], to taste
