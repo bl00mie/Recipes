@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Entree/Chicken Tenders.md",
+                "file": "Recipes/Sauces & Bases/Bolognese.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chicken Tenders"
+              "title": "Bolognese"
             }
           }
         ]
@@ -201,8 +201,9 @@
   },
   "active": "2911710809e26a89",
   "lastOpenFiles": [
-    "Recipes/Hors d'Oeuvres/Keto Corn Dog Recipe (Mini Muffins).md",
     "Recipes/Entree/Chicken Tenders.md",
+    "Recipes/Sauces & Bases/Bolognese.md",
+    "Recipes/Hors d'Oeuvres/Keto Corn Dog Recipe (Mini Muffins).md",
     "Recipes/Hors d'Oeuvres/Baked Green Tomatoes.md",
     "Untitled.base",
     "Recipes/Dessert/Cheesecake Bars.md",
@@ -229,7 +230,6 @@
     "Recipes/Entree/Roasted Red Pepper Pesto Flatbread Pizza (Cauliflower Focaccia Base).md",
     "Recipes/Ingredients/Allulose.md",
     "Recipes/Sauces & Bases/Garlic-parmesan dipping oil.md",
-    "Recipes/Sides/Mozerella Flatbread.md",
     "Recipes/Sides/Untitled",
     "Recipes/Soup",
     "Templates",
