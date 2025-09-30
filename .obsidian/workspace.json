@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Hors d'Oeuvres/Keto Corn Dog Recipe (Mini Muffins).md",
+                "file": "Recipes/Entree/Chicken Tenders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keto Corn Dog Recipe (Mini Muffins)"
+              "title": "Chicken Tenders"
             }
           }
         ]
@@ -201,6 +201,8 @@
   },
   "active": "2911710809e26a89",
   "lastOpenFiles": [
+    "Recipes/Hors d'Oeuvres/Keto Corn Dog Recipe (Mini Muffins).md",
+    "Recipes/Entree/Chicken Tenders.md",
     "Recipes/Hors d'Oeuvres/Baked Green Tomatoes.md",
     "Untitled.base",
     "Recipes/Dessert/Cheesecake Bars.md",
@@ -230,8 +232,6 @@
     "Recipes/Sides/Mozerella Flatbread.md",
     "Recipes/Sides/Untitled",
     "Recipes/Soup",
-    "Recipes/Sauces & Bases/Sweet Thai Chili Sauce.md",
-    "Recipes/Sauces & Bases/Tomato Sauce.md",
     "Templates",
     "Recipes/normalize_serving_size.py",
     "Recipes/uc_serving_size.py",
