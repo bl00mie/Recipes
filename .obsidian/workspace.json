@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sauces & Bases/Bolognese.md",
+                "file": "Recipes/Sauces & Bases/low-carb ketchup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bolognese"
+              "title": "low-carb ketchup"
             }
           }
         ]
@@ -199,10 +199,13 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "2911710809e26a89",
+  "active": "7e41738f5bd4d13d",
   "lastOpenFiles": [
-    "Recipes/Entree/Chicken Tenders.md",
+    "Recipes/Sauces & Bases/Barbeque Sauce.md",
+    "Recipes/Sauces & Bases/low-carb ketchup.md",
+    "Recipes/Sides/Coleslaw.md",
     "Recipes/Sauces & Bases/Bolognese.md",
+    "Recipes/Entree/Chicken Tenders.md",
     "Recipes/Hors d'Oeuvres/Keto Corn Dog Recipe (Mini Muffins).md",
     "Recipes/Hors d'Oeuvres/Baked Green Tomatoes.md",
     "Untitled.base",
@@ -227,9 +230,6 @@
     "Recipes/Sides/Zucchini au gratin.md",
     "Recipes/Sides/Zucchini au Gratin (no roux).md",
     "Recipes/Entree/Keto Beef Stroganoff.md",
-    "Recipes/Entree/Roasted Red Pepper Pesto Flatbread Pizza (Cauliflower Focaccia Base).md",
-    "Recipes/Ingredients/Allulose.md",
-    "Recipes/Sauces & Bases/Garlic-parmesan dipping oil.md",
     "Recipes/Sides/Untitled",
     "Recipes/Soup",
     "Templates",
