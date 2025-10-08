@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sauces & Bases/low-carb ketchup.md",
+                "file": "Horology/Education/Watch Sourcing & Acquisition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "low-carb ketchup"
+              "title": "Watch Sourcing & Acquisition"
             }
           }
         ]
@@ -199,10 +199,18 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "7e41738f5bd4d13d",
+  "active": "2911710809e26a89",
   "lastOpenFiles": [
-    "Recipes/Sauces & Bases/Barbeque Sauce.md",
+    "Horology/Education/Watch Movement Target Reference.md",
+    "Horology/Education/Watch Sourcing & Acquisition.md",
+    "Templates/Watch Record.md",
+    "Horology/Education",
+    "Horology/Consumables",
+    "Horology/Tools",
+    "Horology/Watches",
+    "Horology",
     "Recipes/Sauces & Bases/low-carb ketchup.md",
+    "Recipes/Sauces & Bases/Barbeque Sauce.md",
     "Recipes/Sides/Coleslaw.md",
     "Recipes/Sauces & Bases/Bolognese.md",
     "Recipes/Entree/Chicken Tenders.md",
@@ -227,16 +235,8 @@
     "Recipes/Sides/Cauliflower Mash.md",
     "Recipes/Sauces & Bases/Roasted Pepper Pesto.md",
     "Recipes/Entree/Pan-seared Pork Chops with Mushroom Cream Sauce.md",
-    "Recipes/Sides/Zucchini au gratin.md",
-    "Recipes/Sides/Zucchini au Gratin (no roux).md",
-    "Recipes/Entree/Keto Beef Stroganoff.md",
     "Recipes/Sides/Untitled",
     "Recipes/Soup",
-    "Templates",
-    "Recipes/normalize_serving_size.py",
-    "Recipes/uc_serving_size.py",
-    "Recipes/uc_first_filenames.py",
-    "Recipes/fetch_nutrition.py",
     "Recipes/Images/Keto-Corn-Dog-Recipe-(Mini-Muffins).jpg"
   ]
 }
