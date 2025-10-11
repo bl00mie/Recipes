@@ -25,12 +25,14 @@
             "id": "17489835a1cd7c87",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Horology/Templates/Record Template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Record Template"
             }
           }
         ],
@@ -197,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 516.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,6 +216,8 @@
   },
   "active": "17489835a1cd7c87",
   "lastOpenFiles": [
+    "Horology/Templates/Lot Template.md",
+    "Horology/Templates/Record Template.md",
     "Horology/Education/Watch Movement Target Reference.md",
     "Horology/Education/Watch Sourcing & Acquisition.md",
     "Templates/Watch Record.md",
@@ -246,8 +250,6 @@
     "Recipes/Formulas/Quick Brine.md",
     "Recipes/Formulas",
     "Recipes/Sides/Cauliflower Mash.md",
-    "Recipes/Sauces & Bases/Roasted Pepper Pesto.md",
-    "Recipes/Entree/Pan-seared Pork Chops with Mushroom Cream Sauce.md",
     "Recipes/Sides/Untitled",
     "Recipes/Soup",
     "Recipes/Images/Keto-Corn-Dog-Recipe-(Mini-Muffins).jpg"
