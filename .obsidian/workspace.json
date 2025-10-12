@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horology/Lots/Lot-2025-001.md",
+                "file": "Horology/Records/Record Template 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lot-2025-001"
+              "title": "Record Template 1"
             }
           }
         ],
@@ -214,10 +214,11 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "17489835a1cd7c87",
+  "active": "7e41738f5bd4d13d",
   "lastOpenFiles": [
-    "Horology/Receipts/LOT_2025_001-Goodwill_pocket_watches.pdf",
     "Horology/Lots/Lot-2025-001.md",
+    "Horology/Records/Record Template 1.md",
+    "Horology/Receipts/LOT_2025_001-Goodwill_pocket_watches.pdf",
     "Horology/Receipts/Goodwill_pocket_watches.pdf",
     "Horology/Receipts/Goodwill_Pagani.pdf",
     "Horology/Templates/Lot Template.md",
