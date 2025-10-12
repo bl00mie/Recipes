@@ -11,12 +11,14 @@
             "id": "c45a27dea8c99954",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Horology/Photos/LOT-2025-001/001/movement.jpg"
+                "file": "Recipes/Entree/Tandoori Chicken Drumsticks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "movement"
+              "icon": "lucide-file",
+              "title": "Tandoori Chicken Drumsticks"
             }
           }
         ]
@@ -199,8 +201,10 @@
   },
   "active": "c45a27dea8c99954",
   "lastOpenFiles": [
-    "Horology/Records/Record-2025-001.md",
+    "Recipes/Sides/Mozerella Flatbread.md",
+    "Recipes/Entree/Tandoori Chicken Drumsticks.md",
     "Horology/Photos/LOT-2025-001/001/movement.jpg",
+    "Horology/Records/Record-2025-001.md",
     "Horology/Photos/LOT-2025-001/005/PXL_20251012_024554072.jpg",
     "Horology/Photos/LOT-2025-001/005/PXL_20251012_024604379.jpg",
     "Horology/Photos/LOT-2025-001/004/PXL_20251012_024346502.jpg",
@@ -242,7 +246,6 @@
     "Recipes/Soup/Tomato Soup.md",
     "Recipes/Soup/Creamy Tuscan Chicken Soup.md",
     "Recipes/Soup/Creamy Green Chile Chicken Soup.md",
-    "Recipes/Entree/Zucchini noodle lasagna.md",
-    "Recipes/Sauces & Bases/Lasagna Meat Sauce.md"
+    "Recipes/Entree/Zucchini noodle lasagna.md"
   ]
 }
