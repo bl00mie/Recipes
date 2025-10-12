@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ac95525ce2029981",
+        "id": "d3af832d53f3ea67",
         "type": "tabs",
         "children": [
           {
-            "id": "2911710809e26a89",
+            "id": "c45a27dea8c99954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horology/Education/Watch Sourcing & Acquisition.md",
+                "file": "Horology/Records/Record-2025-001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Watch Sourcing & Acquisition"
-            }
-          },
-          {
-            "id": "17489835a1cd7c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Horology/Records/Record Template 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Record Template 1"
+              "title": "Record-2025-001"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.5
+    "width": 443.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,23 +199,32 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "7e41738f5bd4d13d",
+  "active": "c45a27dea8c99954",
   "lastOpenFiles": [
     "Horology/Lots/Lot-2025-001.md",
-    "Horology/Records/Record Template 1.md",
-    "Horology/Receipts/LOT_2025_001-Goodwill_pocket_watches.pdf",
-    "Horology/Receipts/Goodwill_pocket_watches.pdf",
-    "Horology/Receipts/Goodwill_Pagani.pdf",
+    "Horology/Records/Record-2025-001.md",
+    "Horology/Photos/LOT-2025-001/lidless_quartz_back.jpg",
+    "Horology/Photos/LOT-2025-001/~XL_20251012_000111715.tmp",
+    "Horology/Photos/LOT-2025-001/PXL_20251012_000111715.jpg.~tmp",
+    "Horology/Photos/LOT-2025-001/~uartz_lid_open_front.tmp",
+    "Horology/Photos/LOT-2025-001/quartz_lid_open_front.jpg.~tmp",
+    "Horology/Photos/LOT-2025-001/quartz_hunter_back.jpg",
+    "Horology/Photos/LOT-2025-001/~XL_20251011_235938270.tmp",
+    "Horology/Photos/LOT-2025-001/PXL_20251011_235938270.jpg.~tmp",
+    "Horology/Photos/LOT-2025-001/~echanical_back.tmp",
+    "Horology/Photos/LOT-2025-001/mechanical_back.jpg",
+    "Horology/Photos/LOT-2025-001/overview.jpg",
+    "Horology/Photos/LOT-2025-001/~verview.tmp",
+    "Horology/Photos/LOT-2025-001/overview.jpg.~tmp",
+    "Horology/Photos/LOT-2025-001/mechanical_front.jpg",
+    "Horology/Photos/LOT-2025-001/~XL_20251011_235904425.tmp",
+    "Horology/Photos/LOT-2025-001/lidless_quartz_front.jpg",
+    "Horology/Photos/LOT-2025-001/quartz_hunter_front.jpg",
+    "Horology/Education/Watch Sourcing & Acquisition.md",
     "Horology/Templates/Lot Template.md",
     "Horology/Templates/Record Template.md",
     "Horology/Education/Watch Movement Target Reference.md",
-    "Horology/Education/Watch Sourcing & Acquisition.md",
     "Templates/Watch Record.md",
-    "Horology/Education",
-    "Horology/Consumables",
-    "Horology/Tools",
-    "Horology/Watches",
-    "Horology",
     "Recipes/Sauces & Bases/low-carb ketchup.md",
     "Recipes/Sauces & Bases/Barbeque Sauce.md",
     "Recipes/Sides/Coleslaw.md",
@@ -238,7 +232,6 @@
     "Recipes/Entree/Chicken Tenders.md",
     "Recipes/Hors d'Oeuvres/Keto Corn Dog Recipe (Mini Muffins).md",
     "Recipes/Hors d'Oeuvres/Baked Green Tomatoes.md",
-    "Untitled.base",
     "Recipes/Dessert/Cheesecake Bars.md",
     "Recipes/Sides/Cauliflower Foccacia.md",
     "Recipes/Soup/Broccoli Cheddar Soup.md",
@@ -246,12 +239,10 @@
     "Recipes/Entree/Carnitas-stuffed Bell Peppers.md",
     "Recipes/Ingredients/Mascarpone.md",
     "Recipes/Soup/Tomato Soup.md",
-    "Recipes/normalize_vault_tags.py",
     "Recipes/Soup/Creamy Tuscan Chicken Soup.md",
     "Recipes/Soup/Creamy Green Chile Chicken Soup.md",
     "Recipes/Entree/Zucchini noodle lasagna.md",
     "Recipes/Sauces & Bases/Lasagna Meat Sauce.md",
-    "Recipes/Soup/Beef Stew.md",
     "Recipes/Images/Keto-Corn-Dog-Recipe-(Mini-Muffins).jpg"
   ]
 }
