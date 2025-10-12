@@ -11,14 +11,12 @@
             "id": "c45a27dea8c99954",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Horology/Records/Record-2025-001.md",
-                "mode": "source",
-                "source": true
+                "file": "Horology/Photos/LOT-2025-001/001/movement.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Record-2025-001"
+              "icon": "lucide-image",
+              "title": "movement"
             }
           }
         ]
@@ -201,6 +199,8 @@
   },
   "active": "c45a27dea8c99954",
   "lastOpenFiles": [
+    "Horology/Records/Record-2025-001.md",
+    "Horology/Photos/LOT-2025-001/001/movement.jpg",
     "Horology/Photos/LOT-2025-001/005/PXL_20251012_024554072.jpg",
     "Horology/Photos/LOT-2025-001/005/PXL_20251012_024604379.jpg",
     "Horology/Photos/LOT-2025-001/004/PXL_20251012_024346502.jpg",
@@ -210,8 +210,6 @@
     "Horology/Photos/LOT-2025-001/003/PXL_20251012_023632778.jpg",
     "Horology/Photos/LOT-2025-001/003/PXL_20251012_023953690.jpg",
     "Horology/Photos/LOT-2025-001/003/PXL_20251012_023652786.jpg",
-    "Horology/Photos/LOT-2025-001/002/PXL_20251012_023343209.jpg",
-    "Horology/Photos/LOT-2025-001/002/PXL_20251012_023406493.jpg",
     "Horology/Photos/LOT-2025-001/022",
     "Horology/Photos/LOT-2025-001/021",
     "Horology/Photos/LOT-2025-001/020",
@@ -223,7 +221,6 @@
     "Horology/Photos/LOT-2025-001/014",
     "Horology/Photos/LOT-2025-001/013",
     "Horology/Lots/Lot-2025-001.md",
-    "Horology/Records/Record-2025-001.md",
     "Horology/Education/Watch Sourcing & Acquisition.md",
     "Horology/Templates/Lot Template.md",
     "Horology/Templates/Record Template.md",
