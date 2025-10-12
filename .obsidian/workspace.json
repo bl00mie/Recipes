@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horology/Templates/Record Template.md",
+                "file": "Horology/Lots/Lot-2025-001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Record Template"
+              "title": "Lot-2025-001"
             }
           }
         ],
@@ -217,6 +217,7 @@
   "active": "17489835a1cd7c87",
   "lastOpenFiles": [
     "Horology/Templates/Lot Template.md",
+    "Horology/Lots/Lot-2025-001.md",
     "Horology/Templates/Record Template.md",
     "Horology/Education/Watch Movement Target Reference.md",
     "Horology/Education/Watch Sourcing & Acquisition.md",
@@ -249,7 +250,6 @@
     "Recipes/Soup/Beef Stew.md",
     "Recipes/Formulas/Quick Brine.md",
     "Recipes/Formulas",
-    "Recipes/Sides/Cauliflower Mash.md",
     "Recipes/Sides/Untitled",
     "Recipes/Soup",
     "Recipes/Images/Keto-Corn-Dog-Recipe-(Mini-Muffins).jpg"
