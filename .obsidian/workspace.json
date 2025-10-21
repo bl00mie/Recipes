@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sides/Creamy Tomato Cauli Pilaf.md",
+                "file": "Horology/Records/Record-2025-001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creamy Tomato Cauli Pilaf"
+              "title": "Record-2025-001"
             }
           }
         ]
@@ -201,20 +201,21 @@
   },
   "active": "c45a27dea8c99954",
   "lastOpenFiles": [
-    "Recipes/Entree/Tandoori Chicken Drumsticks.md",
+    "Horology/Photos/LOT-2025-001/004/PXL_20251012_024503533.jpg",
+    "Horology/Photos/LOT-2025-001/004/PXL_20251012_024339789.jpg",
+    "Horology/Photos/LOT-2025-001/004/PXL_20251012_024346502.jpg",
+    "Horology/Photos/LOT-2025-001/005/PXL_20251012_024604379.jpg",
+    "Horology/Photos/LOT-2025-001/005/PXL_20251012_024554072.jpg",
+    "Horology/Photos/LOT-2025-001/overview.jpg",
+    "Horology/Photos/LOT-2025-001/mechanical_front.jpg",
+    "Horology/Photos/LOT-2025-001/mechanical_back.jpg",
+    "Horology/Photos/LOT-2025-001/lidless_quartz_front.jpg",
+    "Horology/Photos/LOT-2025-001/lidless_quartz_back.jpg",
     "Recipes/Sides/Creamy Tomato Cauli Pilaf.md",
+    "Recipes/Entree/Tandoori Chicken Drumsticks.md",
     "Recipes/Sides/Mozerella Flatbread.md",
     "Horology/Photos/LOT-2025-001/001/movement.jpg",
     "Horology/Records/Record-2025-001.md",
-    "Horology/Photos/LOT-2025-001/005/PXL_20251012_024554072.jpg",
-    "Horology/Photos/LOT-2025-001/005/PXL_20251012_024604379.jpg",
-    "Horology/Photos/LOT-2025-001/004/PXL_20251012_024346502.jpg",
-    "Horology/Photos/LOT-2025-001/004/PXL_20251012_024503533.jpg",
-    "Horology/Photos/LOT-2025-001/004/PXL_20251012_024339789.jpg",
-    "Horology/Photos/LOT-2025-001/003/PXL_20251012_023642521.jpg",
-    "Horology/Photos/LOT-2025-001/003/PXL_20251012_023632778.jpg",
-    "Horology/Photos/LOT-2025-001/003/PXL_20251012_023953690.jpg",
-    "Horology/Photos/LOT-2025-001/003/PXL_20251012_023652786.jpg",
     "Horology/Photos/LOT-2025-001/022",
     "Horology/Photos/LOT-2025-001/021",
     "Horology/Photos/LOT-2025-001/020",
@@ -245,7 +246,6 @@
     "Recipes/Entree/Carnitas-stuffed Bell Peppers.md",
     "Recipes/Ingredients/Mascarpone.md",
     "Recipes/Soup/Tomato Soup.md",
-    "Recipes/Soup/Creamy Tuscan Chicken Soup.md",
-    "Recipes/Soup/Creamy Green Chile Chicken Soup.md"
+    "Recipes/Soup/Creamy Tuscan Chicken Soup.md"
   ]
 }
