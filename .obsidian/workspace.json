@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horology/Education/Professor GPT Watchmaking School/Track_E_Poljot_3133_Chronograph/E1a Exploded Diagram and Functional Map.md",
+                "file": "Horology/Education/Professor GPT Watchmaking School/Track_A_Wristwatch_Fundamentals/A6_Automatic_Works.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "E1a Exploded Diagram and Functional Map"
+              "title": "A6_Automatic_Works"
             }
           }
         ]
@@ -201,9 +201,14 @@
   },
   "active": "c45a27dea8c99954",
   "lastOpenFiles": [
+    "Horology/Education/Professor GPT Watchmaking School/Track_A_Wristwatch_Fundamentals/A5_Cosmetic_Restoration.md",
+    "Horology/Education/Professor GPT Watchmaking School/Track_A_Wristwatch_Fundamentals/A4_Rust_Rescue_Lab.md",
+    "Horology/Education/Professor GPT Watchmaking School/Track_A_Wristwatch_Fundamentals/A3_Date_Mechanisms.md",
+    "Horology/Education/Professor GPT Watchmaking School/Track_A_Wristwatch_Fundamentals/A2_Cleaning_and_Lubrication.md",
+    "Horology/Education/Professor GPT Watchmaking School/Track_A_Wristwatch_Fundamentals/A1_First_Teardown.md",
+    "Horology/Education/Professor GPT Watchmaking School/Track_E_Poljot_3133_Chronograph/E1a Exploded Diagram and Functional Map.md",
     "Horology/Education/Professor GPT Watchmaking School/Track_E_Poljot_3133_Chronograph/Service Guide Poljot movement 3133.pdf",
     "Horology/Education/Professor GPT Watchmaking School/Track_E_Poljot_3133_Chronograph/E3 Balance & Hairspring Correction.md",
-    "Horology/Education/Professor GPT Watchmaking School/Track_E_Poljot_3133_Chronograph/E1a Exploded Diagram and Functional Map.md",
     "Horology/Education/Professor GPT Watchmaking School/Track_E_Poljot_3133_Chronograph/E2 Complete Service of the Poljot 3133.md",
     "Horology/Education/Professor GPT Watchmaking School/Track_E_Poljot_3133_Chronograph/E4 Reflection & Final Testing.md",
     "Horology/Education/Professor GPT Watchmaking School/Track_E_Poljot_3133_Chronograph/E1 Understanding the 3133 Chronograph Mechanism.md",
@@ -211,11 +216,8 @@
     "Horology/Education/Professor GPT Watchmaking School/Track_D_Pagani_PD1732_Advanced_Module/D1_Chrono_Style_Pushers.md",
     "Horology/Education/Professor GPT Watchmaking School/Track_D_Pagani_PD1732_Advanced_Module/D3_Assembly_and_Quickset_Service.md",
     "Horology/Education/Professor GPT Watchmaking School/Track_D_Pagani_PD1732_Advanced_Module/D2_Subdial_Calendar_Mechanics.md",
-    "Horology/Education/Professor GPT Watchmaking School/Track_A_Wristwatch_Fundamentals/A3_Date_Mechanisms.md",
     "Horology/Education/Professor GPT Watchmaking School/Track_E_Poljot_3133_Chronograph",
     "Horology/Education/Professor GPT Watchmaking School/New folder",
-    "Horology/Education/Professor GPT Watchmaking School/Track_A_Wristwatch_Fundamentals/A2_Cleaning_and_Lubrication.md",
-    "Horology/Education/Professor GPT Watchmaking School/Track_A_Wristwatch_Fundamentals/A1_First_Teardown.md",
     "Horology/Records/Record-2025-001.md",
     "Horology/Photos/LOT-2025-001/004/PXL_20251012_024503533.jpg",
     "Horology/Photos/LOT-2025-001/004/PXL_20251012_024339789.jpg",
@@ -237,7 +239,6 @@
     "Horology/Photos/LOT-2025-001/018",
     "Horology/Photos/LOT-2025-001/017",
     "Horology/Photos/LOT-2025-001/016",
-    "Horology/Photos/LOT-2025-001/015",
     "Horology/Lots/Lot-2025-001.md",
     "Horology/Education/Watch Sourcing & Acquisition.md",
     "Horology/Templates/Lot Template.md",
@@ -245,7 +246,6 @@
     "Horology/Education/Watch Movement Target Reference.md",
     "Templates/Watch Record.md",
     "Recipes/Sauces & Bases/low-carb ketchup.md",
-    "Recipes/Sauces & Bases/Barbeque Sauce.md",
-    "Recipes/Sides/Coleslaw.md"
+    "Recipes/Sauces & Bases/Barbeque Sauce.md"
   ]
 }
