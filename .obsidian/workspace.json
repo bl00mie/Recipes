@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horology/Tools/Storage/Gridfinity Watch Tray System.md",
+                "file": "Recipes/Dessert/Pumpkin Dessert.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gridfinity Watch Tray System"
+              "title": "Pumpkin Dessert"
             }
           }
         ]
@@ -201,8 +201,9 @@
   },
   "active": "c45a27dea8c99954",
   "lastOpenFiles": [
-    "Recipes/Sauces & Bases/Roasted Green Chile Sauce.md",
     "Horology/Tools/Storage/Gridfinity Watch Tray System.md",
+    "Recipes/Dessert/Pumpkin Dessert.md",
+    "Recipes/Sauces & Bases/Roasted Green Chile Sauce.md",
     "Horology/Tools/Storage",
     "Recipes/Sauces & Bases/Serrano Crema.md",
     "Recipes/Entree/Carnitas Tacos.md",
@@ -245,7 +246,6 @@
     "Horology/Photos/LOT-2025-001/020",
     "Horology/Photos/LOT-2025-001/019",
     "Horology/Photos/LOT-2025-001/018",
-    "Horology/Photos/LOT-2025-001/017",
-    "Horology/Lots/Lot-2025-001.md"
+    "Horology/Photos/LOT-2025-001/017"
   ]
 }
