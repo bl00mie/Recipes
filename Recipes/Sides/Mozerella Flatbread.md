@@ -51,6 +51,7 @@ tags:
 8. Cool slightly before slicing or topping.  
 
 ### Notes
+- Rolling it out with 2 sheets of parchment paper isn't necessary. Lube yor hands with olive oil, get a ball of dough, and hand-flatten it on a parchment-covered baking sheet.
 - Net carbs: ~4.4 g per serving.  
 - Flavor tweaks: Add 1 tsp dried Italian herbs, crushed red pepper, or sesame seeds to dough before baking.  
 - Serving ideas: Use as a base for low-carb pizza, cut into wedges for dipping, or top with fresh tomato + basil for a caprese-style flatbread.  
