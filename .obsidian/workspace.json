@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3af832d53f3ea67",
+        "id": "e322a39c1cce0367",
         "type": "tabs",
         "children": [
           {
-            "id": "c45a27dea8c99954",
+            "id": "b895edf928832786",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Entree/Creamy Cheddar Broccoli & Black Soy Bean Bake.md",
+                "file": "Recipes/Soup/Ham Bone Cauliflower Chowder.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Creamy Cheddar Broccoli & Black Soy Bean Bake"
+              "title": "Ham Bone Cauliflower Chowder"
             }
           }
         ]
@@ -199,10 +199,13 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "c45a27dea8c99954",
+  "active": "b895edf928832786",
   "lastOpenFiles": [
-    "Recipes/Dessert/Strawberry Jello Dessert.md",
+    "Recipes/Soup/Ham Bone Cauliflower Chowder.md",
     "Recipes/Entree/Creamy Cheddar Broccoli & Black Soy Bean Bake.md",
+    "Recipes/Entree/Mushroom Zucchini Lasagna (Lenten).md",
+    "Recipes/Entree/Braised Pork Loin Carnitas.md",
+    "Recipes/Dessert/Strawberry Jello Dessert.md",
     "Recipes/Dessert/Pumpkin Dessert.md",
     "Horology/Tools/Storage/Gridfinity Watch Tray System.md",
     "Recipes/Sauces & Bases/Roasted Green Chile Sauce.md",
@@ -226,10 +229,8 @@
     "Horology/Education/Professor GPT Watchmaking School/Track_E_Poljot_3133_Chronograph/E0 Preliminary Inspection & Balance Investigation.md",
     "Horology/Education/Professor GPT Watchmaking School/Track_D_Pagani_PD1732_Advanced_Module/D1_Chrono_Style_Pushers.md",
     "Horology/Education/Professor GPT Watchmaking School/Track_D_Pagani_PD1732_Advanced_Module/D3_Assembly_and_Quickset_Service.md",
-    "Horology/Education/Professor GPT Watchmaking School/Track_D_Pagani_PD1732_Advanced_Module/D2_Subdial_Calendar_Mechanics.md",
     "Horology/Education/Professor GPT Watchmaking School/Track_E_Poljot_3133_Chronograph",
     "Horology/Education/Professor GPT Watchmaking School/New folder",
-    "Horology/Records/Record-2025-001.md",
     "Horology/Photos/LOT-2025-001/004/PXL_20251012_024503533.jpg",
     "Horology/Photos/LOT-2025-001/004/PXL_20251012_024339789.jpg",
     "Horology/Photos/LOT-2025-001/004/PXL_20251012_024346502.jpg",
@@ -240,7 +241,6 @@
     "Horology/Photos/LOT-2025-001/mechanical_back.jpg",
     "Horology/Photos/LOT-2025-001/lidless_quartz_front.jpg",
     "Horology/Photos/LOT-2025-001/lidless_quartz_back.jpg",
-    "Recipes/Sides/Creamy Tomato Cauli Pilaf.md",
     "Horology/Photos/LOT-2025-001/022",
     "Horology/Photos/LOT-2025-001/021",
     "Horology/Photos/LOT-2025-001/020",
